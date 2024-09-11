@@ -153,3 +153,5 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - Authentication
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
+
+This should serve as a reference point 👋
